@@ -1,0 +1,41 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;   
+}
+
+#main{
+
+    height: 400px;
+    width: 400px;
+    background-color:mediumseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-left: 450px;
+    margin-top: 150px;
+    border-radius: 20px 20px 20px 20px;
+
+}
+button{
+    width: 100px;
+    align-items: center;
+    margin-left: 70px;
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    height: 30px;
+    font-size: 20px;
+
+}
+label{
+ font-size: 30px;
+ margin-bottom: 600px;
+
+}
+input{
+    height: 25px;
+    width: 250px;
+    text-align: center;
+}
